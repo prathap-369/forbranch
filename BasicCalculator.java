@@ -12,7 +12,7 @@ public class BasicCalculator {
           String str1 ="hi";
 		  String str="hi";
 		  System.out.println(str1.hashCode);
-		  System.out.println(str2.hashCode);
+		  System.out.println(str.hashCode);
 
 		// Stores two numbers
 		double num1, num2;
